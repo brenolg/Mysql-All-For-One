@@ -4,11 +4,9 @@ O objetivo deste projeto é praticar os conceitos de SQL, consolidar e aprimorar
 
 ## Funcionalidades
 
-A aplicação web permite ao usuário:
-
-- Desafios de SELECT e criação de dados;
-- Desafios sobre filtragem de dados;
-- Desafios de manipulação de tabelas.
+- Desafios de seleção, criação, atualização e deleção de dados
+- Desafios sobre filtragem de dados
+- Desafios de manipulação de tabelas
 
 ## Tecnologias utilizadas
 
