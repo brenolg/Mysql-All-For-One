@@ -25,7 +25,7 @@ Para instalar e executar o projeto localmente, você precisa ter o Docker instal
 1. Clone o repositório do GitHub:
 
 ```bash
-git clone git@github.com:brenolg/Docker-To-Do-List.git
+git clone git@github.com:brenolg/Mysql-All-For-One.git
 ```
 Rode os serviços node e db:
 ```bash
