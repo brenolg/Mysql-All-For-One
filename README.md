@@ -41,8 +41,7 @@ npm install
 ```
 - As credenciais de acesso ao banco de dados estão definidas no arquivo docker-compose.yml, e são acessíveis no container através das variáveis de ambiente MYSQL_USER e MYSQL_PASSWORD
 - As queries estão nos arquivos desafio{x}sql 
-- Conecte Se ao banco e execute as queries como preferir
-
+- Conecte-se ao banco e execute as queries como preferir
 
 ## Requisitos do projeto
 
